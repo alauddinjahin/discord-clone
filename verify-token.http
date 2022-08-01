@@ -1,0 +1,6 @@
+GET http://localhost:5001/api/auth/verify-token
+Content-Type: application/json
+
+{
+    "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2MmU4MmMxYmFkMDY5ZWQzY2E4M2UwYjUiLCJtYWlsIjoiZWEyMngyMkBnbWFpbC5jb20iLCJpYXQiOjE2NTkzODI4MTIsImV4cCI6MTY1OTQ2OTIxMn0.WHT5cP4_RsIHE8-b9F3gk_CHEOn-Jim_YTk_zkO3c9g"
+}
